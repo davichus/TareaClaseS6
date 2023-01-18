@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="DNavarreteS6.Estudiante">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Consumir web seervice get" FontSize="20" HorizontalTextAlignment="Center"/>
+            <Label x:Name="texto" Text=""/>
+            <Button x:Name="btnGet" Text="Consultar" Clicked="btnGet_Clicked" />
+            <ListView x:Name="MyListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label x:Name="lblNombre" Text="{Binding nombre}"/>
+                                <Label x:Name="lblApellido" Text="{Binding apellido}"/>
+                                <Label x:Name="lblEdad" Text="{Binding edad}"/>
+                            </StackLayout>
+
+                        </ViewCell>
+
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+
+            </ListView>
+            <Button x:Name="btnInserta" Text="Ingresar" Clicked="btnInserta_Clicked"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

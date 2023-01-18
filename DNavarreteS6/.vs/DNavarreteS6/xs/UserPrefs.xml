@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A7D59CE4-13E0-4FB7-BEAD-FE1A836F3B41}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DNavarreteS6.Android PreferredExecutionTarget="Android.pixel_5_-_api_27" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_27" />
+  <MonoDevelop.Ide.ItemProperties.DNavarreteS6.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DNavarreteS6/DNavarreteS6/Registro.xaml.cs">
+    <Files>
+      <File FileName="DNavarreteS6/DNavarreteS6/App.xaml.cs" Line="18" Column="10" />
+      <File FileName="DNavarreteS6/DNavarreteS6/Estudiante.xaml" Line="28" Column="84" />
+      <File FileName="DNavarreteS6/DNavarreteS6/Estudiante.xaml.cs" Line="17" Column="1" />
+      <File FileName="DNavarreteS6/DNavarreteS6/App.xaml" />
+      <File FileName="DNavarreteS6/DNavarreteS6/Datos.cs" />
+      <File FileName="DNavarreteS6/DNavarreteS6/Registro.xaml" Line="9" Column="82" />
+      <File FileName="DNavarreteS6/DNavarreteS6/Registro.xaml.cs" Line="22" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DNavarreteS6" expanded="True">
+            <Node name="DNavarreteS6" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

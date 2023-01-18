@@ -1,0 +1,15 @@
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/bin/Debug/netstandard2.0/DNavarreteS6.deps.json
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/bin/Debug/netstandard2.0/DNavarreteS6.dll
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/bin/Debug/netstandard2.0/ref/DNavarreteS6.dll
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/bin/Debug/netstandard2.0/DNavarreteS6.pdb
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/DNavarreteS6.csproj.AssemblyReference.cache
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/Estudiante.xaml.g.cs
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/DNavarreteS6.AssemblyInfoInputs.cache
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/DNavarreteS6.AssemblyInfo.cs
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/DNavarreteS6.csproj.CoreCompileInputs.cache
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/DNavarreteS6.dll
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/ref/DNavarreteS6.dll
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/DNavarreteS6.pdb
+/Users/davidnavarrete/Projects/DNavarreteS6/DNavarreteS6/DNavarreteS6/obj/Debug/netstandard2.0/Registro.xaml.g.cs
